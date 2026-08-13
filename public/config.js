@@ -40,7 +40,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\",\"isDefault\":true}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
-  "VITE_ANALYTICS_CONFIG": "",
+  "VITE_ANALYTICS_CONFIG": "{\"version\":1,\"provider\":\"ga4\",\"measurementId\":\"G-0FJQ5JNV0D\"}",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
