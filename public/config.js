@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Vaults,Markets,Portfolio,Trading",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "me, https://perp.secureshift.io",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/secureshiftTg",
